@@ -24,12 +24,14 @@ pnpm install
 pnpm dev
 
 ## 📁 Folder Structure
+```txt
 src/
-├── components/       # Reusable components
+├── components/        # Reusable components
 │   └── CustomForm.jsx
-├── App.jsx           # Root component
-├── main.jsx          # React entry point
-├── index.css         # Global styles
+├── App.jsx            # Root component
+├── main.jsx           # React entry point
+├── index.css          # Global styles
+```
 
 ## ✨ Features
 
